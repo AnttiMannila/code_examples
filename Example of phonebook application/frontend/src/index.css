@@ -1,0 +1,42 @@
+
+
+
+h1{
+  color: green;
+  font-style: italic;
+}
+
+h2{
+  font-style: italic;
+}
+
+.person{
+  padding-top: 3px;
+  font-size: 15px;
+  color: red;
+  font-style: italic;
+}
+
+.addperson{
+  font-style: italic;
+}
+
+.done {
+  color: green;
+  background: lightgrey;
+  font-size: 30px;
+  border-style: solid;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.error {
+  color: red;
+  background: lightgrey;
+  font-size: 30px;
+  border-style: solid;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
