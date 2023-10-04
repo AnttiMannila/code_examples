@@ -1,0 +1,10 @@
+POST   http://localhost:3003/api/blogs
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3RpIiwiaWQiOiI2NTE1MmEzN2Y2OTcxNTM2N2UzYTE0ODYiLCJpYXQiOjE2OTYyMzExMTksImV4cCI6MTY5NjIzMTE3OX0.X0h4KaH9OGpQ-cpwDophG-TpytfYV5sLIEDRrrKl8gE
+
+{
+    "title": "aikatesti2",
+    "author": "unknown troutbum",
+    "url": "hookdreams.org",
+    "likes": 52
+}
