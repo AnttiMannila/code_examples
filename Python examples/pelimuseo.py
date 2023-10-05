@@ -1,4 +1,3 @@
-# TEE RATKAISUSI TÄHÄN:
 class Tietokonepeli:
     def __init__(self, nimi: str, julkaisija: str, vuosi: int):
         self.nimi = nimi
