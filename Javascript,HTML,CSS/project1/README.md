@@ -1,4 +1,3 @@
-Pekkantti
 Tekijät: Antti Mannila ja Pekka Komulainen Javascript course Laurea 2022
 
 This application is created to help you calculate your weekly time consumption .
