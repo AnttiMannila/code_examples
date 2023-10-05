@@ -23,7 +23,6 @@ class Kiipeilykallio:
             return reitti.grade
 
         reitit_jarjestyksessa = sorted(self.__reitit, key=vaikeuden_mukaan)
-        # otetaan reiteistä viimeinen
         return reitit_jarjestyksessa[-1]
 
     def __str__(self):
