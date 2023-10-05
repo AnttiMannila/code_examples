@@ -1,4 +1,3 @@
-# Tee ratkaisusi tähän:
 class Henkilo:
     def __init__(self, nimi: str):
         self.name = nimi
