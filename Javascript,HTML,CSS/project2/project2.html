@@ -1,0 +1,33 @@
+<!DOCTYPE HTML>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>Testi</title>
+        <script src="https://kit.fontawesome.com/78965a9558.js" crossorigin="anonymous"></script>
+        <link rel="stylesheet" href="project2.css">
+    </head>
+    <body onload="loadJSONdata()">
+        <h1>Juna-aikatauluhaku</h1>
+        <div class = "container3">
+        <div class = "container2" id = dropDown>
+            <p>Valitse asema:</p>
+            <select name = "asemat" id = "stations"onmousedown="if(this.options.length>10){this.size=10;}" onchange="this.blur()"  onblur="this.size=0;"></select>
+            <button onclick="getOption()">OK</button>
+        </div>
+        <div class="container">
+            
+            <div class="searchInput">
+                <input type="text" placeholder="Kirjoita asema">
+                <div class="resultBox">
+
+                </div>
+                <div class="icon"><i class="fas fa-search"></i></div>
+            </div>
+            
+        </div>
+        <div id = "tabledata"></div>
+    </div>
+        
+    </body>
+</html>
+<script src="project2.js"></script>
