@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="project1final.css">
+</head>
+
+<header><h1>This application is created to help you calculate your weekly time consumption .</h1></header>
+
+<body>
+  <p>Please add your daily hours of work/studies/hobbies through drop menu</p>
+  <p>After your added your hours, you can sum them by using "sum all" button. It will calculate total hours and percentage.</p>
+  <p>You can save your weekly hours by using "save data" button.</p>
+  <p>You download your weekly hours by using "get data" button, and using week number which hours you would like to see.</p>
+  
+  <div class="select">
+    <button onclick="button()" class="dropbutton">Choose your activity</button>
+    <div id="activityButton" class="activity_content">
+      <a onclick="var hours = setWork()">Work</a>
+      <a onclick="setStudies()">Studies</a>
+      <a onclick="setHobbies()">Hobbies</a>
+    </div>
+  </div>
+  
+  <div class = "center">
+    <table class="steelBlueCols">
+      <thead>
+        <tr>
+          <th></th>
+          <th>Work</th>
+          <th>Studies</th>
+          <th>Hobbies</th>
+          <th>Total</th>
+        </tr>
+      </thead>
+      
+      <tbody>
+        <tr>
+          <td>Mon</td>
+          <td id="work_mon">-</td>
+          <td id ="study_mon">-</td>
+          <td id="hobby_mon">-</td>
+          <td id="total_mon">-</td>
+        </tr>
+        
+        <tr>
+          <td>Tue</td>
+          <td id="work_tue">-</td>'
+          <td id ="study_tue">-</td>
+          <td id="hobby_tue">-</td>
+          <td id="total_tue">-</td>
+        </tr>
+
+        <tr>
+          <td>Wed</td>
+          <td id="work_wed">-</td>
+          <td id="study_wed">-</td>
+          <td id="hobby_wed">-</td>
+          <td id="total_wed">-</td>
+        </tr>
+
+        <tr>
+          <td>Thu</td>
+          <td id="work_thu">-</td>
+          <td id="study_thu">-</td>
+          <td id="hobby_thu">-</td>
+          <td id="total_thu">-</td>
+        </tr>
+
+        <tr>
+          <td>Fri</td>
+          <td id="work_fri">-</td>
+          <td id="study_fri">-</td>
+          <td id="hobby_fri">-</td>
+          <td id="total_fri">-</td>
+        </tr>
+
+        <tr>
+          <td>Sat</td>
+          <td id="work_sat">-</td>
+          <td id="study_sat">-</td>
+          <td id="hobby_sat">-</td>
+          <td id="total_sat">-</td>
+        </tr>
+
+        <tr>
+          <td>Sun</td>
+          <td id="work_sun">-</td>
+          <td id="study_sun">-</td>
+          <td id="hobby_sun">-</td>
+          <td id="total_sun">-</td>
+        </tr>
+
+        <tr>
+          <td>Hours ttl</td>
+          <td id="worktotal">-</td>
+          <td id="studytotal">-</td>
+          <td id="hobbytotal">-</td>
+          <td id="all_total">-</td>
+        </tr>
+        
+        <tr>
+          <td>%</td>
+          <td id="work%"></td>
+          <td id="study%"></td>
+          <td id="hobby%"></td>
+          <td>100%</td>
+        </tr>
+      </tbody>
+    
+    </table>
+  </div>
+  <div class = "buttons">
+    <button onclick="allTotal(), procent()">Sum All</button>
+    <button onclick="save_data()">Save data</button>
+    <button onclick="get_data()">Get data</button>
+  </div>
+  <div class ="testi">
+    <table class="steelBlueCols"> 
+      <tr>
+        <td id="date"></td>
+      </tr>
+      <tr>
+        <td id="testi">Your saved data will appear here</td>
+      </tr>
+    </table>
+  </div>
+  <script src="project1final.js"></script>
+</body>
+</html>
