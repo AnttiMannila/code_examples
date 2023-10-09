@@ -1,0 +1,9 @@
+POST   http://localhost:3003/api/blogs
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3RpMiIsImlkIjoiNjUyMjY4MmE0YjM1NGZhOWEzMjBkNDI4IiwiaWF0IjoxNjk2NzU2Nzk3LCJleHAiOjE2OTY3NTg1OTd9.pLwpmmIfe6kkPQI16PL3joe92LDxC-5toigwhun0JKk
+
+{
+    "title": "Chasing silver 2",
+    "author": "Coastal angler",
+    "url": "hookdreams.org"
+}
