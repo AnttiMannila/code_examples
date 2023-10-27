@@ -1,0 +1,41 @@
+.done {
+    color: green;
+    background: lightgrey;
+    font-size: 30px;
+    border-style: solid;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+
+  h1 {
+    color: green;
+    font-style: italic;
+  }
+
+  .error {
+    color: red;
+    background: lightgray;
+    font-size: 30px;
+    border-style: solid;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+
+  .blog {
+    border-style: solid;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 5px;
+  }
+
+  .likeButton {
+    color: black;
+    background-color: green;
+  }
+
+  .deleteButton {
+    color: black;
+    background-color: red;
+  }
