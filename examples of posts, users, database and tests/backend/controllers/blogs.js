@@ -15,6 +15,9 @@ blogsRouter.post('/', userExtractor, async (request, response) => {
 		return response.status(401).json({ error: 'token invalid' })
 	}
 	const user = await User.findById(request.user.id)
+	if (body.url === '') {
+		body.url = 'Url not known'
+	}
 
 	const blog = new Blog({
 		title : body.title,
@@ -25,6 +28,7 @@ blogsRouter.post('/', userExtractor, async (request, response) => {
 	})
 
 	const savedBlog = await blog.save()
+	await savedBlog.populate('user')
 	user.blogs = user.blogs.concat(savedBlog._id)
 	await user.save()
 
@@ -41,11 +45,12 @@ blogsRouter.delete('/:id', userExtractor, async (request, response) => {
 
 	if (blog.user.toString()=== user.id.toString()) {
 		await Blog.findByIdAndRemove(request.params.id)
+
 		return response.status(204).end()
 	}
 })
 
-blogsRouter.put('/:id',(request, response, next) => {
+blogsRouter.put('/:id', async (request, response) => {
 	const body = request.body
 
 	const blog = {
@@ -54,9 +59,11 @@ blogsRouter.put('/:id',(request, response, next) => {
 		url : body.url,
 		likes : body.likes,
 	}
-	Blog.findByIdAndUpdate(request.params.id, blog, { new: true })
-		.then(updatedBLog => { response.json(updatedBLog) })
-		.catch(error => next(error))
-})
+
+	const updatedBlog = await Blog.findByIdAndUpdate(request.params.id, blog, { new: true })
+	await updatedBlog.populate('user')
+	response.json(updatedBlog)
+}
+)
 
 module.exports = blogsRouter
