@@ -59,7 +59,6 @@ class Sovellus:
                     ei_valmiit_tunnit.append(devaaja.tyomaara)
         
         return f" työt: valmiina {len(valmiit)} ei valmiina {len(ei_valmiit)}, tunteja: tehty {sum(valmiit_tunnit)} tekemättä {sum(ei_valmiit_tunnit)}"
-        #return status
 
     def help(self):
 
