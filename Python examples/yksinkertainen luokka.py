@@ -7,7 +7,6 @@ class Kiipeilyreitti:
     def __str__(self):
         return f"{self.nimi}, pituus {self.pituus} metriä, grade {self.grade}"
 
-# Tee ratkaisusi tähän:
 def pituuden_mukaan(reitit: list):
     def pituudet(reitti: Kiipeilyreitti):
         return reitti.pituus
