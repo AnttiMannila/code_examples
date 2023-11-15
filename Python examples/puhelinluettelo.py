@@ -98,7 +98,5 @@ class PuhelinluetteloSovellus:
             else:
                 self.ohje()
  
- 
-# kun testaat, mitään muuta koodia ei saa olla luokkien ulkopuolella kuin seuraavat rivit
 sovellus = PuhelinluetteloSovellus()
 sovellus.suorita()
