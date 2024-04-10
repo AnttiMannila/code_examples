@@ -1,0 +1,201 @@
+,Entity,Code,Year,Share of waste incinerated from total regional waste,unit
+0,Americas (excl. USA),,2000,1.2200574,%
+1,Americas (excl. USA),,2001,1.2086724,%
+2,Americas (excl. USA),,2002,1.1975662,%
+3,Americas (excl. USA),,2003,1.186352,%
+4,Americas (excl. USA),,2004,1.1752826,%
+5,Americas (excl. USA),,2005,1.1643187,%
+6,Americas (excl. USA),,2006,1.1536299,%
+7,Americas (excl. USA),,2007,1.1429298,%
+8,Americas (excl. USA),,2008,1.1313322,%
+9,Americas (excl. USA),,2009,1.1201167,%
+10,Americas (excl. USA),,2010,1.1110171,%
+11,Americas (excl. USA),,2011,1.1020877,%
+12,Americas (excl. USA),,2012,1.0941856,%
+13,Americas (excl. USA),,2013,1.0871824,%
+14,Americas (excl. USA),,2014,1.0832841,%
+15,Americas (excl. USA),,2015,1.0632468,%
+16,Americas (excl. USA),,2016,1.0594409,%
+17,Americas (excl. USA),,2017,1.0606065,%
+18,Americas (excl. USA),,2018,1.0537329,%
+19,Americas (excl. USA),,2019,1.1592599,%
+20,Asia (excl. China and India),,2000,10.439383,%
+21,Asia (excl. China and India),,2001,10.978967,%
+22,Asia (excl. China and India),,2002,11.516974,%
+23,Asia (excl. China and India),,2003,12.036433,%
+24,Asia (excl. China and India),,2004,12.546595,%
+25,Asia (excl. China and India),,2005,13.035166,%
+26,Asia (excl. China and India),,2006,13.520215,%
+27,Asia (excl. China and India),,2007,13.991865,%
+28,Asia (excl. China and India),,2008,14.406246,%
+29,Asia (excl. China and India),,2009,14.830825,%
+30,Asia (excl. China and India),,2010,15.259308,%
+31,Asia (excl. China and India),,2011,15.73903,%
+32,Asia (excl. China and India),,2012,16.145636,%
+33,Asia (excl. China and India),,2013,16.596796,%
+34,Asia (excl. China and India),,2014,16.968782,%
+35,Asia (excl. China and India),,2015,17.335096,%
+36,Asia (excl. China and India),,2016,17.633564,%
+37,Asia (excl. China and India),,2017,17.935818,%
+38,Asia (excl. China and India),,2018,18.53463,%
+39,Asia (excl. China and India),,2019,18.513683,%
+40,China,CHN,2000,8.821573,%
+41,China,CHN,2001,9.609698,%
+42,China,CHN,2002,10.40487,%
+43,China,CHN,2003,11.204407,%
+44,China,CHN,2004,12.010195,%
+45,China,CHN,2005,12.820913,%
+46,China,CHN,2006,13.638992,%
+47,China,CHN,2007,14.462739,%
+48,China,CHN,2008,15.287558,%
+49,China,CHN,2009,16.121347,%
+50,China,CHN,2010,16.963223,%
+51,China,CHN,2011,17.809065,%
+52,China,CHN,2012,18.663284,%
+53,China,CHN,2013,19.526173,%
+54,China,CHN,2014,20.402584,%
+55,China,CHN,2015,21.266891,%
+56,China,CHN,2016,22.14718,%
+57,China,CHN,2017,23.042185,%
+58,China,CHN,2018,23.932241,%
+59,China,CHN,2019,23.762764,%
+60,Europe,,2000,14.542094,%
+61,Europe,,2001,15.765712,%
+62,Europe,,2002,17.00034,%
+63,Europe,,2003,18.240551,%
+64,Europe,,2004,19.489176,%
+65,Europe,,2005,20.743938,%
+66,Europe,,2006,22.009491,%
+67,Europe,,2007,23.282541,%
+68,Europe,,2008,24.552296,%
+69,Europe,,2009,25.83552,%
+70,Europe,,2010,27.131308,%
+71,Europe,,2011,28.428936,%
+72,Europe,,2012,29.726812,%
+73,Europe,,2013,31.043758,%
+74,Europe,,2014,32.365795,%
+75,Europe,,2015,33.69418,%
+76,Europe,,2016,35.048588,%
+77,Europe,,2017,36.413742,%
+78,Europe,,2018,37.823994,%
+79,Europe,,2019,37.74739,%
+80,India,IND,2000,1.6886452,%
+81,India,IND,2001,1.8104163,%
+82,India,IND,2002,1.9341495,%
+83,India,IND,2003,2.058212,%
+84,India,IND,2004,2.183653,%
+85,India,IND,2005,2.3092675,%
+86,India,IND,2006,2.4366627,%
+87,India,IND,2007,2.5648549,%
+88,India,IND,2008,2.6906817,%
+89,India,IND,2009,2.819237,%
+90,India,IND,2010,2.9519954,%
+91,India,IND,2011,3.084561,%
+92,India,IND,2012,3.2184,%
+93,India,IND,2013,3.3541615,%
+94,India,IND,2014,3.4897249,%
+95,India,IND,2015,3.6219816,%
+96,India,IND,2016,3.757444,%
+97,India,IND,2017,3.8932753,%
+98,India,IND,2018,4.031769,%
+99,India,IND,2019,4.1608157,%
+100,Middle East & North Africa,,2000,0.4083155,%
+101,Middle East & North Africa,,2001,0.40893826,%
+102,Middle East & North Africa,,2002,0.41152158,%
+103,Middle East & North Africa,,2003,0.4132549,%
+104,Middle East & North Africa,,2004,0.4158622,%
+105,Middle East & North Africa,,2005,0.41720885,%
+106,Middle East & North Africa,,2006,0.42017192,%
+107,Middle East & North Africa,,2007,0.42305285,%
+108,Middle East & North Africa,,2008,0.42023295,%
+109,Middle East & North Africa,,2009,0.4205537,%
+110,Middle East & North Africa,,2010,0.4244984,%
+111,Middle East & North Africa,,2011,0.426279,%
+112,Middle East & North Africa,,2012,0.42845225,%
+113,Middle East & North Africa,,2013,0.43187827,%
+114,Middle East & North Africa,,2014,0.43362236,%
+115,Middle East & North Africa,,2015,0.43537682,%
+116,Middle East & North Africa,,2016,0.44025955,%
+117,Middle East & North Africa,,2017,0.44278595,%
+118,Middle East & North Africa,,2018,0.44417846,%
+119,Middle East & North Africa,,2019,0.6075314,%
+120,Oceania,,2000,9.345559,%
+121,Oceania,,2001,9.463215,%
+122,Oceania,,2002,9.582663,%
+123,Oceania,,2003,9.702051,%
+124,Oceania,,2004,9.822365,%
+125,Oceania,,2005,9.942407,%
+126,Oceania,,2006,10.063928,%
+127,Oceania,,2007,10.185877,%
+128,Oceania,,2008,10.305142,%
+129,Oceania,,2009,10.426499,%
+130,Oceania,,2010,10.54966,%
+131,Oceania,,2011,10.6718645,%
+132,Oceania,,2012,10.794297,%
+133,Oceania,,2013,10.917622,%
+134,Oceania,,2014,11.04042,%
+135,Oceania,,2015,11.162097,%
+136,Oceania,,2016,11.284588,%
+137,Oceania,,2017,11.407856,%
+138,Oceania,,2018,11.530375,%
+139,Oceania,,2019,11.508256,%
+140,Sub-Saharan Africa,,2000,0.0,%
+141,Sub-Saharan Africa,,2001,0.0,%
+142,Sub-Saharan Africa,,2002,0.0,%
+143,Sub-Saharan Africa,,2003,0.0,%
+144,Sub-Saharan Africa,,2004,0.0,%
+145,Sub-Saharan Africa,,2005,0.0,%
+146,Sub-Saharan Africa,,2006,0.0,%
+147,Sub-Saharan Africa,,2007,0.0,%
+148,Sub-Saharan Africa,,2008,0.0,%
+149,Sub-Saharan Africa,,2009,0.0,%
+150,Sub-Saharan Africa,,2010,0.0,%
+151,Sub-Saharan Africa,,2011,0.0,%
+152,Sub-Saharan Africa,,2012,0.0,%
+153,Sub-Saharan Africa,,2013,0.0,%
+154,Sub-Saharan Africa,,2014,0.0,%
+155,Sub-Saharan Africa,,2015,0.0,%
+156,Sub-Saharan Africa,,2016,0.0,%
+157,Sub-Saharan Africa,,2017,0.0,%
+158,Sub-Saharan Africa,,2018,0.0,%
+159,Sub-Saharan Africa,,2019,0.5053036,%
+160,United States,USA,2000,15.26663,%
+161,United States,USA,2001,15.470107,%
+162,United States,USA,2002,15.676425,%
+163,United States,USA,2003,15.881963,%
+164,United States,USA,2004,16.088884,%
+165,United States,USA,2005,16.295376,%
+166,United States,USA,2006,16.504599,%
+167,United States,USA,2007,16.714312,%
+168,United States,USA,2008,16.917627,%
+169,United States,USA,2009,17.125454,%
+170,United States,USA,2010,17.337303,%
+171,United States,USA,2011,17.546066,%
+172,United States,USA,2012,17.757292,%
+173,United States,USA,2013,17.972448,%
+174,United States,USA,2014,18.185287,%
+175,United States,USA,2015,18.395073,%
+176,United States,USA,2016,18.607126,%
+177,United States,USA,2017,18.82063,%
+178,United States,USA,2018,19.0355,%
+179,United States,USA,2019,19.078592,%
+180,World,OWID_WRL,2000,10.872603,%
+181,World,OWID_WRL,2001,11.335858,%
+182,World,OWID_WRL,2002,11.796122,%
+183,World,OWID_WRL,2003,12.255621,%
+184,World,OWID_WRL,2004,12.712106,%
+185,World,OWID_WRL,2005,13.169611,%
+186,World,OWID_WRL,2006,13.623553,%
+187,World,OWID_WRL,2007,14.075386,%
+188,World,OWID_WRL,2008,14.530793,%
+189,World,OWID_WRL,2009,14.980321,%
+190,World,OWID_WRL,2010,15.421236,%
+191,World,OWID_WRL,2011,15.873149,%
+192,World,OWID_WRL,2012,16.3224,%
+193,World,OWID_WRL,2013,16.779276,%
+194,World,OWID_WRL,2014,17.219267,%
+195,World,OWID_WRL,2015,17.625141,%
+196,World,OWID_WRL,2016,18.084925,%
+197,World,OWID_WRL,2017,18.57843,%
+198,World,OWID_WRL,2018,19.083899,%
+199,World,OWID_WRL,2019,19.048033,%

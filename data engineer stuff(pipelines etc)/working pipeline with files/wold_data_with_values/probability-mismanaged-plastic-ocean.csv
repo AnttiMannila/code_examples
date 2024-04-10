@@ -1,0 +1,164 @@
+,Entity,Code,Year,Probability of plastic being emitted to ocean,unit
+0,Albania,ALB,2019,1.56,%
+1,Algeria,DZA,2019,0.09,%
+2,Angola,AGO,2019,0.09,%
+3,Antigua and Barbuda,ATG,2019,3.08,%
+4,Argentina,ARG,2019,0.26,%
+5,Australia,AUS,2019,0.18,%
+6,Bahamas,BHS,2019,2.04,%
+7,Bahrain,BHR,2019,0.0,%
+8,Bangladesh,BGD,2019,2.32,%
+9,Barbados,BRB,2019,4.35,%
+10,Belgium,BEL,2019,0.71,%
+11,Belize,BLZ,2019,3.54,%
+12,Benin,BEN,2019,0.14,%
+13,Bosnia and Herzegovina,BIH,2019,0.95,%
+14,Brazil,BRA,2019,0.24,%
+15,Brunei,BRN,2019,10.22,%
+16,Bulgaria,BGR,2019,0.13,%
+17,Burkina Faso,BFA,2019,0.0,%
+18,Cambodia,KHM,2019,0.63,%
+19,Cameroon,CMR,2019,0.45,%
+20,Canada,CAN,2019,0.55,%
+21,Cape Verde,CPV,2019,0.0,%
+22,Chile,CHL,2019,2.58,%
+23,China,CHN,2019,0.19,%
+24,Colombia,COL,2019,0.62,%
+25,Comoros,COM,2019,0.0,%
+26,Congo,COG,2019,0.08,%
+27,Costa Rica,CRI,2019,6.25,%
+28,Cote d'Ivoire,CIV,2019,0.0,%
+29,Croatia,HRV,2019,0.0,%
+30,Cyprus,CYP,2019,0.62,%
+31,Democratic Republic of Congo,COD,2019,0.01,%
+32,Denmark,DNK,2019,2.33,%
+33,Djibouti,DJI,2019,0.22,%
+34,Dominica,DMA,2019,7.73,%
+35,Dominican Republic,DOM,2019,2.59,%
+36,East Timor,TLS,2019,3.8,%
+37,Ecuador,ECU,2019,0.57,%
+38,Egypt,EGY,2019,0.04,%
+39,El Salvador,SLV,2019,2.71,%
+40,Equatorial Guinea,GNQ,2019,2.97,%
+41,Eritrea,ERI,2019,0.13,%
+42,Estonia,EST,2019,0.76,%
+43,Fiji,FJI,2019,7.54,%
+44,Finland,FIN,2019,0.0,%
+45,France,FRA,2019,0.56,%
+46,French Guiana,GUF,2019,2.18,%
+47,Gabon,GAB,2019,0.7,%
+48,Gambia,GMB,2019,0.67,%
+49,Georgia,GEO,2019,1.23,%
+50,Germany,DEU,2019,0.26,%
+51,Ghana,GHA,2019,0.28,%
+52,Greece,GRC,2019,0.91,%
+53,Grenada,GRD,2019,5.99,%
+54,Guadeloupe,GLP,2019,4.35,%
+55,Guatemala,GTM,2019,1.74,%
+56,Guinea,GIN,2019,0.0,%
+57,Guinea-Bissau,GNB,2019,2.36,%
+58,Guyana,GUY,2019,0.89,%
+59,Haiti,HTI,2019,2.95,%
+60,Honduras,HND,2019,1.48,%
+61,Hong Kong,HKG,2019,4.51,%
+62,Iceland,ISL,2019,0.0,%
+63,India,IND,2019,0.45,%
+64,Indonesia,IDN,2019,4.45,%
+65,Iran,IRN,2019,0.07,%
+66,Iraq,IRQ,2019,0.01,%
+67,Ireland,IRL,2019,2.97,%
+68,Israel,ISR,2019,0.29,%
+69,Italy,ITA,2019,0.88,%
+70,Jamaica,JAM,2019,5.07,%
+71,Japan,JPN,2019,3.58,%
+72,Jordan,JOR,2019,0.07,%
+73,Kazakhstan,KAZ,2019,0.1,%
+74,Kenya,KEN,2019,0.17,%
+75,Kiribati,KIR,2019,0.0,%
+76,Kuwait,KWT,2019,0.2,%
+77,Latvia,LVA,2019,0.5,%
+78,Lebanon,LBN,2019,1.27,%
+79,Lesotho,LSO,2019,0.0,%
+80,Liberia,LBR,2019,3.68,%
+81,Libya,LBY,2019,0.06,%
+82,Lithuania,LTU,2019,0.21,%
+83,Macau,,2019,1.62,%
+84,Madagascar,MDG,2019,1.58,%
+85,Malaysia,MYS,2019,4.38,%
+86,Maldives,MDV,2019,0.0,%
+87,Malta,MLT,2019,0.0,%
+88,Marshall Islands,MHL,2019,0.0,%
+89,Martinique,MTQ,2019,10.11,%
+90,Mauritania,MRT,2019,0.1,%
+91,Mauritius,MUS,2019,0.0,%
+92,Mexico,MEX,2019,0.46,%
+93,Micronesia,,2019,5.0,%
+94,Monaco,MCO,2019,0.0,%
+95,Montenegro,MNE,2019,2.08,%
+96,Morocco,MAR,2019,0.15,%
+97,Mozambique,MOZ,2019,0.36,%
+98,Myanmar,MMR,2019,0.36,%
+99,Namibia,NAM,2019,0.05,%
+100,Netherlands,NLD,2019,1.54,%
+101,New Zealand,NZL,2019,3.78,%
+102,Nicaragua,NIC,2019,2.08,%
+103,Nigeria,NGA,2019,0.42,%
+104,North Korea,PRK,2019,0.69,%
+105,Norway,NOR,2019,0.0,%
+106,Oman,OMN,2019,0.11,%
+107,Pakistan,PAK,2019,0.02,%
+108,Palau,PLW,2019,13.74,%
+109,Palestine,PSE,2019,9.29,%
+110,Panama,PAN,2019,7.12,%
+111,Papua New Guinea,PNG,2019,4.39,%
+112,Peru,PER,2019,0.05,%
+113,Philippines,PHL,2019,7.17,%
+114,Poland,POL,2019,0.13,%
+115,Portugal,PRT,2019,0.84,%
+116,Puerto Rico,PRI,2019,5.77,%
+117,Qatar,QAT,2019,0.07,%
+118,Reunion,REU,2019,0.0,%
+119,Romania,ROU,2019,0.04,%
+120,Russia,RUS,2019,0.12,%
+121,Saint Kitts and Nevis,KNA,2019,2.52,%
+122,Saint Lucia,LCA,2019,7.92,%
+123,Saint Martin,,2019,0.0,%
+124,Saint Vincent and the Grenadines,VCT,2019,7.19,%
+125,Samoa,WSM,2019,0.0,%
+126,Sao Tome and Principe,STP,2019,3.67,%
+127,Saudi Arabia,SAU,2019,0.06,%
+128,Senegal,SEN,2019,0.21,%
+129,Seychelles,SYC,2019,0.0,%
+130,Sierra Leone,SLE,2019,3.09,%
+131,Singapore,SGP,2019,10.49,%
+132,Sint Maarten,,2019,0.0,%
+133,Slovakia,SVK,2019,0.0,%
+134,Slovenia,SVN,2019,1.13,%
+135,Solomon Islands,SLB,2019,10.34,%
+136,Somalia,SOM,2019,0.14,%
+137,South Africa,ZAF,2019,0.12,%
+138,South Korea,KOR,2019,1.59,%
+139,Spain,ESP,2019,0.36,%
+140,Sri Lanka,LKA,2019,3.42,%
+141,Sudan,SDN,2019,0.01,%
+142,Suriname,SUR,2019,0.85,%
+143,Sweden,SWE,2019,1.03,%
+144,Syria,SYR,2019,0.12,%
+145,Taiwan,TWN,2019,5.64,%
+146,Tanzania,TZA,2019,0.22,%
+147,Thailand,THA,2019,0.9,%
+148,Togo,TGO,2019,0.17,%
+149,Tonga,TON,2019,0.0,%
+150,Trinidad and Tobago,TTO,2019,5.05,%
+151,Tunisia,TUN,2019,0.18,%
+152,Turkey,TUR,2019,0.37,%
+153,Ukraine,UKR,2019,0.1,%
+154,United Arab Emirates,ARE,2019,0.18,%
+155,United Kingdom,GBR,2019,3.02,%
+156,United States,USA,2019,0.35,%
+157,Uruguay,URY,2019,0.52,%
+158,Venezuela,VEN,2019,0.39,%
+159,Vietnam,VNM,2019,1.6,%
+160,Western Sahara,ESH,2019,0.11,%
+161,Yemen,YEM,2019,0.07,%
+162,Zimbabwe,ZWE,2019,0.0,%

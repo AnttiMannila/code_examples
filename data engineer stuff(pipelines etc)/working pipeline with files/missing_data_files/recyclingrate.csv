@@ -1,0 +1,617 @@
+,unit,year,value,value_name,location_name,location_type
+0,%,2012,65.9,Recycling rate,Austria,country
+1,%,2013,66.6,Recycling rate,Austria,country
+2,%,2014,66.6,Recycling rate,Austria,country
+3,%,2015,67.1,Recycling rate,Austria,country
+4,%,2016,66.8,Recycling rate,Austria,country
+5,%,2017,65.6,Recycling rate,Austria,country
+6,%,2018,65.5,Recycling rate,Austria,country
+7,%,2019,65.4,Recycling rate,Austria,country
+8,%,2020,63.7,Recycling rate,Austria,country
+9,%,2021,65.8,Recycling rate,Austria,country
+10,%,2012,80.3,Recycling rate,Belgium,country
+11,%,2013,78.7,Recycling rate,Belgium,country
+12,%,2014,81.3,Recycling rate,Belgium,country
+13,%,2015,81.5,Recycling rate,Belgium,country
+14,%,2016,81.9,Recycling rate,Belgium,country
+15,%,2017,83.8,Recycling rate,Belgium,country
+16,%,2018,85.3,Recycling rate,Belgium,country
+17,%,2019,83.5,Recycling rate,Belgium,country
+18,%,2020,79.7,Recycling rate,Belgium,country
+19,%,2021,80.4,Recycling rate,Belgium,country
+20,%,2012,66.5,Recycling rate,Bulgaria,country
+21,%,2013,65.7,Recycling rate,Bulgaria,country
+22,%,2014,62.0,Recycling rate,Bulgaria,country
+23,%,2015,64.1,Recycling rate,Bulgaria,country
+24,%,2016,63.8,Recycling rate,Bulgaria,country
+25,%,2017,65.6,Recycling rate,Bulgaria,country
+26,%,2018,60.4,Recycling rate,Bulgaria,country
+27,%,2019,61.2,Recycling rate,Bulgaria,country
+28,%,2012,55.3,Recycling rate,Cyprus,country
+29,%,2013,56.6,Recycling rate,Cyprus,country
+30,%,2014,58.7,Recycling rate,Cyprus,country
+31,%,2015,59.8,Recycling rate,Cyprus,country
+32,%,2016,64.6,Recycling rate,Cyprus,country
+33,%,2017,66.2,Recycling rate,Cyprus,country
+34,%,2018,70.2,Recycling rate,Cyprus,country
+35,%,2019,66.8,Recycling rate,Cyprus,country
+36,%,2020,59.9,Recycling rate,Cyprus,country
+37,%,2021,63.5,Recycling rate,Cyprus,country
+38,%,2012,69.9,Recycling rate,Czech Republic,country
+39,%,2013,69.9,Recycling rate,Czech Republic,country
+40,%,2014,73.0,Recycling rate,Czech Republic,country
+41,%,2015,74.3,Recycling rate,Czech Republic,country
+42,%,2016,75.3,Recycling rate,Czech Republic,country
+43,%,2017,72.3,Recycling rate,Czech Republic,country
+44,%,2018,69.6,Recycling rate,Czech Republic,country
+45,%,2019,71.2,Recycling rate,Czech Republic,country
+46,%,2020,67.9,Recycling rate,Czech Republic,country
+47,%,2021,69.1,Recycling rate,Czech Republic,country
+48,%,2012,71.3,Recycling rate,Germany,country
+49,%,2013,71.8,Recycling rate,Germany,country
+50,%,2014,71.4,Recycling rate,Germany,country
+51,%,2015,69.3,Recycling rate,Germany,country
+52,%,2016,70.7,Recycling rate,Germany,country
+53,%,2017,69.9,Recycling rate,Germany,country
+54,%,2018,68.5,Recycling rate,Germany,country
+55,%,2019,64.0,Recycling rate,Germany,country
+56,%,2020,68.1,Recycling rate,Germany,country
+57,%,2021,67.9,Recycling rate,Germany,country
+58,%,2012,61.6,Recycling rate,Denmark,country
+59,%,2013,69.8,Recycling rate,Denmark,country
+60,%,2014,69.8,Recycling rate,Denmark,country
+61,%,2015,73.9,Recycling rate,Denmark,country
+62,%,2016,79.0,Recycling rate,Denmark,country
+63,%,2017,71.5,Recycling rate,Denmark,country
+64,%,2018,70.1,Recycling rate,Denmark,country
+65,%,2019,70.4,Recycling rate,Denmark,country
+66,%,2020,64.0,Recycling rate,Denmark,country
+67,%,2012,61.3,Recycling rate,Estonia,country
+68,%,2013,58.4,Recycling rate,Estonia,country
+69,%,2014,60.3,Recycling rate,Estonia,country
+70,%,2015,59.0,Recycling rate,Estonia,country
+71,%,2016,56.0,Recycling rate,Estonia,country
+72,%,2017,53.5,Recycling rate,Estonia,country
+73,%,2018,60.4,Recycling rate,Estonia,country
+74,%,2019,66.2,Recycling rate,Estonia,country
+75,%,2020,71.4,Recycling rate,Estonia,country
+76,%,2021,70.4,Recycling rate,Estonia,country
+77,%,2012,58.6,Recycling rate,Greece,country
+78,%,2013,52.4,Recycling rate,Greece,country
+79,%,2014,53.8,Recycling rate,Greece,country
+80,%,2015,60.3,Recycling rate,Greece,country
+81,%,2016,66.1,Recycling rate,Greece,country
+82,%,2017,68.6,Recycling rate,Greece,country
+83,%,2018,63.6,Recycling rate,Greece,country
+84,%,2019,60.1,Recycling rate,Greece,country
+85,%,2012,65.5,Recycling rate,Spain,country
+86,%,2013,66.6,Recycling rate,Spain,country
+87,%,2014,68.7,Recycling rate,Spain,country
+88,%,2015,68.4,Recycling rate,Spain,country
+89,%,2016,70.3,Recycling rate,Spain,country
+90,%,2017,68.5,Recycling rate,Spain,country
+91,%,2018,68.8,Recycling rate,Spain,country
+92,%,2019,69.6,Recycling rate,Spain,country
+93,%,2020,68.3,Recycling rate,Spain,country
+94,%,2021,70.1,Recycling rate,Spain,country
+95,%,2012,65.2,Recycling rate,European Union (27),country
+96,%,2013,65.4,Recycling rate,European Union (27),country
+97,%,2014,66.5,Recycling rate,European Union (27),country
+98,%,2015,66.6,Recycling rate,European Union (27),country
+99,%,2016,67.6,Recycling rate,European Union (27),country
+100,%,2017,67.5,Recycling rate,European Union (27),country
+101,%,2018,65.6,Recycling rate,European Union (27),country
+102,%,2019,64.8,Recycling rate,European Union (27),country
+103,%,2020,64.0,Recycling rate,European Union (27),country
+104,%,2021,64.0,Recycling rate,European Union (27),country
+105,%,2012,59.3,Recycling rate,Finland,country
+106,%,2013,58.0,Recycling rate,Finland,country
+107,%,2014,57.4,Recycling rate,Finland,country
+108,%,2015,60.9,Recycling rate,Finland,country
+109,%,2016,64.7,Recycling rate,Finland,country
+110,%,2017,65.2,Recycling rate,Finland,country
+111,%,2018,70.2,Recycling rate,Finland,country
+112,%,2019,70.6,Recycling rate,Finland,country
+113,%,2020,73.2,Recycling rate,Finland,country
+114,%,2021,72.5,Recycling rate,Finland,country
+115,%,2012,64.9,Recycling rate,France,country
+116,%,2013,66.4,Recycling rate,France,country
+117,%,2014,65.2,Recycling rate,France,country
+118,%,2015,65.5,Recycling rate,France,country
+119,%,2016,66.0,Recycling rate,France,country
+120,%,2017,68.1,Recycling rate,France,country
+121,%,2018,63.5,Recycling rate,France,country
+122,%,2019,65.6,Recycling rate,France,country
+123,%,2020,60.3,Recycling rate,France,country
+124,%,2021,61.8,Recycling rate,France,country
+125,%,2012,59.7,Recycling rate,Croatia,country
+126,%,2013,58.8,Recycling rate,Croatia,country
+127,%,2014,52.7,Recycling rate,Croatia,country
+128,%,2015,60.1,Recycling rate,Croatia,country
+129,%,2016,54.7,Recycling rate,Croatia,country
+130,%,2017,53.3,Recycling rate,Croatia,country
+131,%,2018,58.4,Recycling rate,Croatia,country
+132,%,2019,48.9,Recycling rate,Croatia,country
+133,%,2020,54.2,Recycling rate,Croatia,country
+134,%,2021,50.8,Recycling rate,Croatia,country
+135,%,2012,48.5,Recycling rate,Hungary,country
+136,%,2013,49.2,Recycling rate,Hungary,country
+137,%,2014,48.4,Recycling rate,Hungary,country
+138,%,2015,50.1,Recycling rate,Hungary,country
+139,%,2016,49.7,Recycling rate,Hungary,country
+140,%,2017,49.7,Recycling rate,Hungary,country
+141,%,2018,46.1,Recycling rate,Hungary,country
+142,%,2019,47.0,Recycling rate,Hungary,country
+143,%,2020,52.4,Recycling rate,Hungary,country
+144,%,2012,74.0,Recycling rate,Ireland,country
+145,%,2013,70.2,Recycling rate,Ireland,country
+146,%,2014,68.3,Recycling rate,Ireland,country
+147,%,2015,67.5,Recycling rate,Ireland,country
+148,%,2016,67.0,Recycling rate,Ireland,country
+149,%,2017,65.6,Recycling rate,Ireland,country
+150,%,2018,63.9,Recycling rate,Ireland,country
+151,%,2019,62.5,Recycling rate,Ireland,country
+152,%,2020,62.4,Recycling rate,Ireland,country
+153,%,2021,58.1,Recycling rate,Ireland,country
+154,%,2012,40.7,Recycling rate,Iceland,country
+155,%,2013,42.9,Recycling rate,Iceland,country
+156,%,2014,42.8,Recycling rate,Iceland,country
+157,%,2015,47.4,Recycling rate,Iceland,country
+158,%,2016,47.2,Recycling rate,Iceland,country
+159,%,2017,44.4,Recycling rate,Iceland,country
+160,%,2018,51.2,Recycling rate,Iceland,country
+161,%,2019,46.3,Recycling rate,Iceland,country
+162,%,2020,57.0,Recycling rate,Iceland,country
+163,%,2021,49.8,Recycling rate,Iceland,country
+164,%,2012,66.6,Recycling rate,Italy,country
+165,%,2013,66.7,Recycling rate,Italy,country
+166,%,2014,65.4,Recycling rate,Italy,country
+167,%,2015,66.8,Recycling rate,Italy,country
+168,%,2016,66.9,Recycling rate,Italy,country
+169,%,2017,67.1,Recycling rate,Italy,country
+170,%,2018,68.3,Recycling rate,Italy,country
+171,%,2019,69.6,Recycling rate,Italy,country
+172,%,2020,72.8,Recycling rate,Italy,country
+173,%,2021,72.9,Recycling rate,Italy,country
+174,%,2012,44.3,Recycling rate,Liechtenstein,country
+175,%,2013,50.3,Recycling rate,Liechtenstein,country
+176,%,2014,51.9,Recycling rate,Liechtenstein,country
+177,%,2015,66.1,Recycling rate,Liechtenstein,country
+178,%,2016,65.8,Recycling rate,Liechtenstein,country
+179,%,2017,66.7,Recycling rate,Liechtenstein,country
+180,%,2018,68.0,Recycling rate,Liechtenstein,country
+181,%,2019,70.0,Recycling rate,Liechtenstein,country
+182,%,2020,72.1,Recycling rate,Liechtenstein,country
+183,%,2021,72.2,Recycling rate,Liechtenstein,country
+184,%,2012,62.2,Recycling rate,Lithuania,country
+185,%,2013,53.5,Recycling rate,Lithuania,country
+186,%,2014,57.7,Recycling rate,Lithuania,country
+187,%,2015,59.8,Recycling rate,Lithuania,country
+188,%,2016,69.5,Recycling rate,Lithuania,country
+189,%,2017,61.8,Recycling rate,Lithuania,country
+190,%,2018,60.7,Recycling rate,Lithuania,country
+191,%,2019,61.9,Recycling rate,Lithuania,country
+192,%,2020,61.8,Recycling rate,Lithuania,country
+193,%,2012,62.5,Recycling rate,Luxembourg,country
+194,%,2013,62.8,Recycling rate,Luxembourg,country
+195,%,2014,66.0,Recycling rate,Luxembourg,country
+196,%,2015,70.0,Recycling rate,Luxembourg,country
+197,%,2016,70.3,Recycling rate,Luxembourg,country
+198,%,2017,69.7,Recycling rate,Luxembourg,country
+199,%,2018,70.9,Recycling rate,Luxembourg,country
+200,%,2019,71.5,Recycling rate,Luxembourg,country
+201,%,2020,71.9,Recycling rate,Luxembourg,country
+202,%,2021,73.7,Recycling rate,Luxembourg,country
+203,%,2012,51.1,Recycling rate,Latvia,country
+204,%,2013,51.0,Recycling rate,Latvia,country
+205,%,2014,54.9,Recycling rate,Latvia,country
+206,%,2015,53.9,Recycling rate,Latvia,country
+207,%,2016,57.7,Recycling rate,Latvia,country
+208,%,2017,58.7,Recycling rate,Latvia,country
+209,%,2018,55.8,Recycling rate,Latvia,country
+210,%,2019,62.4,Recycling rate,Latvia,country
+211,%,2020,61.4,Recycling rate,Latvia,country
+212,%,2021,61.0,Recycling rate,Latvia,country
+213,%,2012,46.6,Recycling rate,Malta,country
+214,%,2013,38.1,Recycling rate,Malta,country
+215,%,2014,41.1,Recycling rate,Malta,country
+216,%,2015,37.1,Recycling rate,Malta,country
+217,%,2016,39.7,Recycling rate,Malta,country
+218,%,2017,35.6,Recycling rate,Malta,country
+219,%,2018,35.7,Recycling rate,Malta,country
+220,%,2019,33.7,Recycling rate,Malta,country
+221,%,2020,40.0,Recycling rate,Malta,country
+222,%,2021,38.4,Recycling rate,Malta,country
+223,%,2012,69.3,Recycling rate,Netherlands,country
+224,%,2013,70.4,Recycling rate,Netherlands,country
+225,%,2014,70.5,Recycling rate,Netherlands,country
+226,%,2015,71.7,Recycling rate,Netherlands,country
+227,%,2016,72.6,Recycling rate,Netherlands,country
+228,%,2017,78.1,Recycling rate,Netherlands,country
+229,%,2018,79.4,Recycling rate,Netherlands,country
+230,%,2019,80.7,Recycling rate,Netherlands,country
+231,%,2020,76.5,Recycling rate,Netherlands,country
+232,%,2021,76.8,Recycling rate,Netherlands,country
+233,%,2012,55.9,Recycling rate,Norway,country
+234,%,2013,54.5,Recycling rate,Norway,country
+235,%,2014,55.7,Recycling rate,Norway,country
+236,%,2015,55.1,Recycling rate,Norway,country
+237,%,2016,56.3,Recycling rate,Norway,country
+238,%,2017,54.5,Recycling rate,Norway,country
+239,%,2018,52.9,Recycling rate,Norway,country
+240,%,2019,53.9,Recycling rate,Norway,country
+241,%,2020,52.5,Recycling rate,Norway,country
+242,%,2012,41.4,Recycling rate,Poland,country
+243,%,2013,36.1,Recycling rate,Poland,country
+244,%,2014,55.4,Recycling rate,Poland,country
+245,%,2015,57.6,Recycling rate,Poland,country
+246,%,2016,58.0,Recycling rate,Poland,country
+247,%,2017,56.7,Recycling rate,Poland,country
+248,%,2018,58.7,Recycling rate,Poland,country
+249,%,2019,55.5,Recycling rate,Poland,country
+250,%,2012,56.9,Recycling rate,Portugal,country
+251,%,2013,61.5,Recycling rate,Portugal,country
+252,%,2014,61.0,Recycling rate,Portugal,country
+253,%,2015,57.1,Recycling rate,Portugal,country
+254,%,2016,60.9,Recycling rate,Portugal,country
+255,%,2017,55.3,Recycling rate,Portugal,country
+256,%,2018,57.9,Recycling rate,Portugal,country
+257,%,2019,62.8,Recycling rate,Portugal,country
+258,%,2020,59.5,Recycling rate,Portugal,country
+259,%,2021,63.1,Recycling rate,Portugal,country
+260,%,2012,56.8,Recycling rate,Romania,country
+261,%,2013,52.8,Recycling rate,Romania,country
+262,%,2014,54.8,Recycling rate,Romania,country
+263,%,2015,55.9,Recycling rate,Romania,country
+264,%,2016,60.4,Recycling rate,Romania,country
+265,%,2017,60.4,Recycling rate,Romania,country
+266,%,2018,57.9,Recycling rate,Romania,country
+267,%,2019,44.6,Recycling rate,Romania,country
+268,%,2020,39.9,Recycling rate,Romania,country
+269,%,2012,69.6,Recycling rate,Sweden,country
+270,%,2013,71.9,Recycling rate,Sweden,country
+271,%,2014,70.5,Recycling rate,Sweden,country
+272,%,2015,71.8,Recycling rate,Sweden,country
+273,%,2016,68.2,Recycling rate,Sweden,country
+274,%,2017,71.7,Recycling rate,Sweden,country
+275,%,2018,65.0,Recycling rate,Sweden,country
+276,%,2019,63.6,Recycling rate,Sweden,country
+277,%,2020,60.9,Recycling rate,Sweden,country
+278,%,2021,59.6,Recycling rate,Sweden,country
+279,%,2012,66.9,Recycling rate,Slovenia,country
+280,%,2013,69.0,Recycling rate,Slovenia,country
+281,%,2014,70.4,Recycling rate,Slovenia,country
+282,%,2015,67.0,Recycling rate,Slovenia,country
+283,%,2016,69.4,Recycling rate,Slovenia,country
+284,%,2017,70.1,Recycling rate,Slovenia,country
+285,%,2018,68.0,Recycling rate,Slovenia,country
+286,%,2019,67.1,Recycling rate,Slovenia,country
+287,%,2020,67.9,Recycling rate,Slovenia,country
+288,%,2021,55.1,Recycling rate,Slovenia,country
+289,%,2012,68.1,Recycling rate,Slovakia,country
+290,%,2013,65.9,Recycling rate,Slovakia,country
+291,%,2014,65.4,Recycling rate,Slovakia,country
+292,%,2015,64.3,Recycling rate,Slovakia,country
+293,%,2016,65.8,Recycling rate,Slovakia,country
+294,%,2017,65.7,Recycling rate,Slovakia,country
+295,%,2018,66.6,Recycling rate,Slovakia,country
+296,%,2019,67.5,Recycling rate,Slovakia,country
+297,%,2020,70.8,Recycling rate,Slovakia,country
+298,%,2012,61.4,Recycling rate,United Kingdom,country
+299,%,2013,64.6,Recycling rate,United Kingdom,country
+300,%,2014,59.2,Recycling rate,United Kingdom,country
+301,%,2015,60.6,Recycling rate,United Kingdom,country
+302,%,2016,64.7,Recycling rate,United Kingdom,country
+303,%,2017,63.9,Recycling rate,United Kingdom,country
+304,%,2018,62.1,Recycling rate,United Kingdom,country
+305,%,2019,63.4,Recycling rate,United Kingdom,country
+306,%,2020,66.3,Recycling rate,United Kingdom,country
+307,%,2021,65.7,Recycling rate,United Kingdom,country
+308,%,2012,34.7,Recycling rate,Austria,country
+309,%,2013,34.4,Recycling rate,Austria,country
+310,%,2014,33.6,Recycling rate,Austria,country
+311,%,2015,33.6,Recycling rate,Austria,country
+312,%,2016,33.6,Recycling rate,Austria,country
+313,%,2017,33.4,Recycling rate,Austria,country
+314,%,2018,31.9,Recycling rate,Austria,country
+315,%,2019,30.8,Recycling rate,Austria,country
+316,%,2020,31.6,Recycling rate,Austria,country
+317,%,2021,30.7,Recycling rate,Austria,country
+318,%,2012,41.5,Recycling rate,Belgium,country
+319,%,2013,39.0,Recycling rate,Belgium,country
+320,%,2014,41.8,Recycling rate,Belgium,country
+321,%,2015,42.6,Recycling rate,Belgium,country
+322,%,2016,43.4,Recycling rate,Belgium,country
+323,%,2017,44.5,Recycling rate,Belgium,country
+324,%,2018,42.4,Recycling rate,Belgium,country
+325,%,2019,47.3,Recycling rate,Belgium,country
+326,%,2020,44.7,Recycling rate,Belgium,country
+327,%,2021,49.2,Recycling rate,Belgium,country
+328,%,2012,40.7,Recycling rate,Bulgaria,country
+329,%,2013,41.3,Recycling rate,Bulgaria,country
+330,%,2014,64.1,Recycling rate,Bulgaria,country
+331,%,2015,60.8,Recycling rate,Bulgaria,country
+332,%,2016,52.6,Recycling rate,Bulgaria,country
+333,%,2017,64.8,Recycling rate,Bulgaria,country
+334,%,2018,59.2,Recycling rate,Bulgaria,country
+335,%,2019,50.6,Recycling rate,Bulgaria,country
+336,%,2012,44.8,Recycling rate,Cyprus,country
+337,%,2013,45.3,Recycling rate,Cyprus,country
+338,%,2014,46.6,Recycling rate,Cyprus,country
+339,%,2015,63.7,Recycling rate,Cyprus,country
+340,%,2016,62.3,Recycling rate,Cyprus,country
+341,%,2017,65.0,Recycling rate,Cyprus,country
+342,%,2018,54.3,Recycling rate,Cyprus,country
+343,%,2019,50.5,Recycling rate,Cyprus,country
+344,%,2020,48.6,Recycling rate,Cyprus,country
+345,%,2021,41.6,Recycling rate,Cyprus,country
+346,%,2012,58.2,Recycling rate,Czech Republic,country
+347,%,2013,59.7,Recycling rate,Czech Republic,country
+348,%,2014,58.2,Recycling rate,Czech Republic,country
+349,%,2015,61.7,Recycling rate,Czech Republic,country
+350,%,2016,59.2,Recycling rate,Czech Republic,country
+351,%,2017,58.6,Recycling rate,Czech Republic,country
+352,%,2018,57.0,Recycling rate,Czech Republic,country
+353,%,2019,61.0,Recycling rate,Czech Republic,country
+354,%,2020,41.8,Recycling rate,Czech Republic,country
+355,%,2021,45.1,Recycling rate,Czech Republic,country
+356,%,2012,47.0,Recycling rate,Germany,country
+357,%,2013,46.8,Recycling rate,Germany,country
+358,%,2014,47.3,Recycling rate,Germany,country
+359,%,2015,47.4,Recycling rate,Germany,country
+360,%,2016,48.4,Recycling rate,Germany,country
+361,%,2017,48.0,Recycling rate,Germany,country
+362,%,2018,46.4,Recycling rate,Germany,country
+363,%,2019,43.3,Recycling rate,Germany,country
+364,%,2020,46.2,Recycling rate,Germany,country
+365,%,2021,48.4,Recycling rate,Germany,country
+366,%,2012,25.9,Recycling rate,Denmark,country
+367,%,2013,29.1,Recycling rate,Denmark,country
+368,%,2014,30.7,Recycling rate,Denmark,country
+369,%,2015,30.5,Recycling rate,Denmark,country
+370,%,2016,36.1,Recycling rate,Denmark,country
+371,%,2017,41.8,Recycling rate,Denmark,country
+372,%,2018,31.3,Recycling rate,Denmark,country
+373,%,2019,37.4,Recycling rate,Denmark,country
+374,%,2020,22.9,Recycling rate,Denmark,country
+375,%,2012,29.8,Recycling rate,Estonia,country
+376,%,2013,28.1,Recycling rate,Estonia,country
+377,%,2014,29.3,Recycling rate,Estonia,country
+378,%,2015,27.8,Recycling rate,Estonia,country
+379,%,2016,24.6,Recycling rate,Estonia,country
+380,%,2017,26.5,Recycling rate,Estonia,country
+381,%,2018,37.7,Recycling rate,Estonia,country
+382,%,2019,40.6,Recycling rate,Estonia,country
+383,%,2020,40.9,Recycling rate,Estonia,country
+384,%,2021,42.5,Recycling rate,Estonia,country
+385,%,2012,32.2,Recycling rate,Greece,country
+386,%,2013,32.3,Recycling rate,Greece,country
+387,%,2014,32.8,Recycling rate,Greece,country
+388,%,2015,36.8,Recycling rate,Greece,country
+389,%,2016,38.2,Recycling rate,Greece,country
+390,%,2017,41.4,Recycling rate,Greece,country
+391,%,2018,39.8,Recycling rate,Greece,country
+392,%,2019,37.6,Recycling rate,Greece,country
+393,%,2012,35.1,Recycling rate,Spain,country
+394,%,2013,40.7,Recycling rate,Spain,country
+395,%,2014,42.5,Recycling rate,Spain,country
+396,%,2015,44.0,Recycling rate,Spain,country
+397,%,2016,45.5,Recycling rate,Spain,country
+398,%,2017,47.9,Recycling rate,Spain,country
+399,%,2018,50.7,Recycling rate,Spain,country
+400,%,2019,51.5,Recycling rate,Spain,country
+401,%,2020,51.4,Recycling rate,Spain,country
+402,%,2021,56.4,Recycling rate,Spain,country
+403,%,2012,37.0,Recycling rate,European Union (27),country
+404,%,2013,37.5,Recycling rate,European Union (27),country
+405,%,2014,39.0,Recycling rate,European Union (27),country
+406,%,2015,40.5,Recycling rate,European Union (27),country
+407,%,2016,42.4,Recycling rate,European Union (27),country
+408,%,2017,41.7,Recycling rate,European Union (27),country
+409,%,2018,41.4,Recycling rate,European Union (27),country
+410,%,2019,41.1,Recycling rate,European Union (27),country
+411,%,2020,37.6,Recycling rate,European Union (27),country
+412,%,2021,39.7,Recycling rate,European Union (27),country
+413,%,2012,25.4,Recycling rate,Finland,country
+414,%,2013,22.7,Recycling rate,Finland,country
+415,%,2014,24.6,Recycling rate,Finland,country
+416,%,2015,23.7,Recycling rate,Finland,country
+417,%,2016,25.4,Recycling rate,Finland,country
+418,%,2017,26.5,Recycling rate,Finland,country
+419,%,2018,31.1,Recycling rate,Finland,country
+420,%,2019,42.0,Recycling rate,Finland,country
+421,%,2020,39.4,Recycling rate,Finland,country
+422,%,2021,42.9,Recycling rate,Finland,country
+423,%,2012,25.1,Recycling rate,France,country
+424,%,2013,25.6,Recycling rate,France,country
+425,%,2014,25.2,Recycling rate,France,country
+426,%,2015,25.5,Recycling rate,France,country
+427,%,2016,25.8,Recycling rate,France,country
+428,%,2017,26.5,Recycling rate,France,country
+429,%,2018,26.9,Recycling rate,France,country
+430,%,2019,26.9,Recycling rate,France,country
+431,%,2020,21.4,Recycling rate,France,country
+432,%,2021,23.1,Recycling rate,France,country
+433,%,2012,45.4,Recycling rate,Croatia,country
+434,%,2013,45.3,Recycling rate,Croatia,country
+435,%,2014,37.7,Recycling rate,Croatia,country
+436,%,2015,46.3,Recycling rate,Croatia,country
+437,%,2016,41.1,Recycling rate,Croatia,country
+438,%,2017,37.3,Recycling rate,Croatia,country
+439,%,2018,37.3,Recycling rate,Croatia,country
+440,%,2019,35.7,Recycling rate,Croatia,country
+441,%,2020,34.1,Recycling rate,Croatia,country
+442,%,2021,34.2,Recycling rate,Croatia,country
+443,%,2012,27.8,Recycling rate,Hungary,country
+444,%,2013,30.8,Recycling rate,Hungary,country
+445,%,2014,36.8,Recycling rate,Hungary,country
+446,%,2015,27.4,Recycling rate,Hungary,country
+447,%,2016,31.4,Recycling rate,Hungary,country
+448,%,2017,32.0,Recycling rate,Hungary,country
+449,%,2018,30.0,Recycling rate,Hungary,country
+450,%,2019,33.0,Recycling rate,Hungary,country
+451,%,2020,24.9,Recycling rate,Hungary,country
+452,%,2012,38.2,Recycling rate,Ireland,country
+453,%,2013,34.8,Recycling rate,Ireland,country
+454,%,2014,31.3,Recycling rate,Ireland,country
+455,%,2015,29.7,Recycling rate,Ireland,country
+456,%,2016,31.2,Recycling rate,Ireland,country
+457,%,2017,30.5,Recycling rate,Ireland,country
+458,%,2018,27.1,Recycling rate,Ireland,country
+459,%,2019,27.5,Recycling rate,Ireland,country
+460,%,2020,29.0,Recycling rate,Ireland,country
+461,%,2021,27.9,Recycling rate,Ireland,country
+462,%,2012,40.9,Recycling rate,Iceland,country
+463,%,2013,26.5,Recycling rate,Iceland,country
+464,%,2014,26.8,Recycling rate,Iceland,country
+465,%,2015,37.0,Recycling rate,Iceland,country
+466,%,2016,41.5,Recycling rate,Iceland,country
+467,%,2017,28.9,Recycling rate,Iceland,country
+468,%,2018,29.3,Recycling rate,Iceland,country
+469,%,2019,24.0,Recycling rate,Iceland,country
+470,%,2020,30.8,Recycling rate,Iceland,country
+471,%,2021,27.6,Recycling rate,Iceland,country
+472,%,2012,37.5,Recycling rate,Italy,country
+473,%,2013,36.8,Recycling rate,Italy,country
+474,%,2014,38.0,Recycling rate,Italy,country
+475,%,2015,41.1,Recycling rate,Italy,country
+476,%,2016,42.4,Recycling rate,Italy,country
+477,%,2017,41.8,Recycling rate,Italy,country
+478,%,2018,43.4,Recycling rate,Italy,country
+479,%,2019,44.7,Recycling rate,Italy,country
+480,%,2020,51.2,Recycling rate,Italy,country
+481,%,2021,54.8,Recycling rate,Italy,country
+482,%,2012,7.0,Recycling rate,Liechtenstein,country
+483,%,2013,6.6,Recycling rate,Liechtenstein,country
+484,%,2014,6.8,Recycling rate,Liechtenstein,country
+485,%,2015,16.9,Recycling rate,Liechtenstein,country
+486,%,2016,20.9,Recycling rate,Liechtenstein,country
+487,%,2017,18.3,Recycling rate,Liechtenstein,country
+488,%,2018,21.4,Recycling rate,Liechtenstein,country
+489,%,2019,26.5,Recycling rate,Liechtenstein,country
+490,%,2020,30.2,Recycling rate,Liechtenstein,country
+491,%,2021,31.4,Recycling rate,Liechtenstein,country
+492,%,2012,38.9,Recycling rate,Lithuania,country
+493,%,2013,42.9,Recycling rate,Lithuania,country
+494,%,2014,51.2,Recycling rate,Lithuania,country
+495,%,2015,54.8,Recycling rate,Lithuania,country
+496,%,2016,74.4,Recycling rate,Lithuania,country
+497,%,2017,71.5,Recycling rate,Lithuania,country
+498,%,2018,69.3,Recycling rate,Lithuania,country
+499,%,2019,69.6,Recycling rate,Lithuania,country
+500,%,2020,56.1,Recycling rate,Lithuania,country
+501,%,2012,36.7,Recycling rate,Luxembourg,country
+502,%,2013,32.2,Recycling rate,Luxembourg,country
+503,%,2014,32.3,Recycling rate,Luxembourg,country
+504,%,2015,32.7,Recycling rate,Luxembourg,country
+505,%,2016,31.9,Recycling rate,Luxembourg,country
+506,%,2017,33.1,Recycling rate,Luxembourg,country
+507,%,2018,32.3,Recycling rate,Luxembourg,country
+508,%,2019,33.4,Recycling rate,Luxembourg,country
+509,%,2020,34.7,Recycling rate,Luxembourg,country
+510,%,2021,39.5,Recycling rate,Luxembourg,country
+511,%,2012,24.0,Recycling rate,Latvia,country
+512,%,2013,24.5,Recycling rate,Latvia,country
+513,%,2014,36.4,Recycling rate,Latvia,country
+514,%,2015,35.3,Recycling rate,Latvia,country
+515,%,2016,37.2,Recycling rate,Latvia,country
+516,%,2017,36.6,Recycling rate,Latvia,country
+517,%,2018,35.8,Recycling rate,Latvia,country
+518,%,2019,35.4,Recycling rate,Latvia,country
+519,%,2020,35.9,Recycling rate,Latvia,country
+520,%,2021,41.6,Recycling rate,Latvia,country
+521,%,2012,32.8,Recycling rate,Malta,country
+522,%,2013,22.6,Recycling rate,Malta,country
+523,%,2014,32.9,Recycling rate,Malta,country
+524,%,2015,28.6,Recycling rate,Malta,country
+525,%,2016,23.5,Recycling rate,Malta,country
+526,%,2017,19.2,Recycling rate,Malta,country
+527,%,2018,11.1,Recycling rate,Malta,country
+528,%,2019,15.4,Recycling rate,Malta,country
+529,%,2020,10.2,Recycling rate,Malta,country
+530,%,2021,20.5,Recycling rate,Malta,country
+531,%,2012,47.7,Recycling rate,Netherlands,country
+532,%,2013,46.6,Recycling rate,Netherlands,country
+533,%,2014,50.6,Recycling rate,Netherlands,country
+534,%,2015,49.8,Recycling rate,Netherlands,country
+535,%,2016,51.5,Recycling rate,Netherlands,country
+536,%,2017,50.4,Recycling rate,Netherlands,country
+537,%,2018,52.0,Recycling rate,Netherlands,country
+538,%,2019,57.2,Recycling rate,Netherlands,country
+539,%,2020,49.2,Recycling rate,Netherlands,country
+540,%,2021,48.9,Recycling rate,Netherlands,country
+541,%,2012,38.1,Recycling rate,Norway,country
+542,%,2013,38.8,Recycling rate,Norway,country
+543,%,2014,36.1,Recycling rate,Norway,country
+544,%,2015,37.1,Recycling rate,Norway,country
+545,%,2016,39.3,Recycling rate,Norway,country
+546,%,2017,36.9,Recycling rate,Norway,country
+547,%,2018,36.3,Recycling rate,Norway,country
+548,%,2019,33.2,Recycling rate,Norway,country
+549,%,2020,27.9,Recycling rate,Norway,country
+550,%,2012,21.9,Recycling rate,Poland,country
+551,%,2013,19.7,Recycling rate,Poland,country
+552,%,2014,28.3,Recycling rate,Poland,country
+553,%,2015,30.8,Recycling rate,Poland,country
+554,%,2016,46.9,Recycling rate,Poland,country
+555,%,2017,34.6,Recycling rate,Poland,country
+556,%,2018,35.7,Recycling rate,Poland,country
+557,%,2019,31.5,Recycling rate,Poland,country
+558,%,2012,30.4,Recycling rate,Portugal,country
+559,%,2013,35.3,Recycling rate,Portugal,country
+560,%,2014,40.0,Recycling rate,Portugal,country
+561,%,2015,43.0,Recycling rate,Portugal,country
+562,%,2016,41.8,Recycling rate,Portugal,country
+563,%,2017,34.9,Recycling rate,Portugal,country
+564,%,2018,33.9,Recycling rate,Portugal,country
+565,%,2019,35.6,Recycling rate,Portugal,country
+566,%,2020,33.9,Recycling rate,Portugal,country
+567,%,2021,38.1,Recycling rate,Portugal,country
+568,%,2012,51.3,Recycling rate,Romania,country
+569,%,2013,51.7,Recycling rate,Romania,country
+570,%,2014,44.5,Recycling rate,Romania,country
+571,%,2015,46.7,Recycling rate,Romania,country
+572,%,2016,46.5,Recycling rate,Romania,country
+573,%,2017,47.6,Recycling rate,Romania,country
+574,%,2018,43.0,Recycling rate,Romania,country
+575,%,2019,31.1,Recycling rate,Romania,country
+576,%,2020,30.1,Recycling rate,Romania,country
+577,%,2012,34.9,Recycling rate,Sweden,country
+578,%,2013,45.6,Recycling rate,Sweden,country
+579,%,2014,47.5,Recycling rate,Sweden,country
+580,%,2015,49.0,Recycling rate,Sweden,country
+581,%,2016,50.7,Recycling rate,Sweden,country
+582,%,2017,48.4,Recycling rate,Sweden,country
+583,%,2018,50.0,Recycling rate,Sweden,country
+584,%,2019,53.2,Recycling rate,Sweden,country
+585,%,2020,33.5,Recycling rate,Sweden,country
+586,%,2021,23.8,Recycling rate,Sweden,country
+587,%,2012,64.8,Recycling rate,Slovenia,country
+588,%,2013,81.7,Recycling rate,Slovenia,country
+589,%,2014,69.3,Recycling rate,Slovenia,country
+590,%,2015,63.4,Recycling rate,Slovenia,country
+591,%,2016,62.0,Recycling rate,Slovenia,country
+592,%,2017,60.4,Recycling rate,Slovenia,country
+593,%,2018,48.8,Recycling rate,Slovenia,country
+594,%,2019,50.3,Recycling rate,Slovenia,country
+595,%,2020,44.6,Recycling rate,Slovenia,country
+596,%,2021,50.0,Recycling rate,Slovenia,country
+597,%,2012,57.0,Recycling rate,Slovakia,country
+598,%,2013,55.1,Recycling rate,Slovakia,country
+599,%,2014,55.9,Recycling rate,Slovakia,country
+600,%,2015,54.4,Recycling rate,Slovakia,country
+601,%,2016,51.7,Recycling rate,Slovakia,country
+602,%,2017,52.4,Recycling rate,Slovakia,country
+603,%,2018,51.4,Recycling rate,Slovakia,country
+604,%,2019,52.8,Recycling rate,Slovakia,country
+605,%,2020,56.3,Recycling rate,Slovakia,country
+606,%,2012,25.2,Recycling rate,United Kingdom,country
+607,%,2013,31.6,Recycling rate,United Kingdom,country
+608,%,2014,37.9,Recycling rate,United Kingdom,country
+609,%,2015,39.4,Recycling rate,United Kingdom,country
+610,%,2016,44.9,Recycling rate,United Kingdom,country
+611,%,2017,46.2,Recycling rate,United Kingdom,country
+612,%,2018,43.8,Recycling rate,United Kingdom,country
+613,%,2019,55.4,Recycling rate,United Kingdom,country
+614,%,2020,52.0,Recycling rate,United Kingdom,country
+615,%,2021,53.1,Recycling rate,United Kingdom,country

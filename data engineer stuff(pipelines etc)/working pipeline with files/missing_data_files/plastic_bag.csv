@@ -1,0 +1,97 @@
+,year,value,unit,location_type,location_name,value_name
+0,2018,103.4,pcs,country,Austria,Number of plasticbags per capita
+1,2019,74.4,pcs,country,Austria,Number of plasticbags per capita
+2,2020,50.4,pcs,country,Austria,Number of plasticbags per capita
+3,2021,24.8,pcs,country,Austria,Number of plasticbags per capita
+4,2018,56.4,pcs,country,Belgium,Number of plasticbags per capita
+5,2019,34.5,pcs,country,Belgium,Number of plasticbags per capita
+6,2020,19.6,pcs,country,Belgium,Number of plasticbags per capita
+7,2021,12.5,pcs,country,Belgium,Number of plasticbags per capita
+8,2018,180.6,pcs,country,Bulgaria,Number of plasticbags per capita
+9,2019,198.6,pcs,country,Bulgaria,Number of plasticbags per capita
+10,2018,468.6,pcs,country,Cyprus,Number of plasticbags per capita
+11,2019,308.2,pcs,country,Cyprus,Number of plasticbags per capita
+12,2020,323.8,pcs,country,Cyprus,Number of plasticbags per capita
+13,2021,332.2,pcs,country,Cyprus,Number of plasticbags per capita
+14,2018,405.1,pcs,country,Czech Republic,Number of plasticbags per capita
+15,2019,494.79999999999995,pcs,country,Czech Republic,Number of plasticbags per capita
+16,2020,502.79999999999995,pcs,country,Czech Republic,Number of plasticbags per capita
+17,2021,378.4,pcs,country,Czech Republic,Number of plasticbags per capita
+18,2018,114.4,pcs,country,Germany,Number of plasticbags per capita
+19,2019,111.6,pcs,country,Germany,Number of plasticbags per capita
+20,2020,91.0,pcs,country,Germany,Number of plasticbags per capita
+21,2021,78.4,pcs,country,Germany,Number of plasticbags per capita
+22,2018,359.7,pcs,country,Estonia,Number of plasticbags per capita
+23,2019,304.2,pcs,country,Estonia,Number of plasticbags per capita
+24,2018,231.9,pcs,country,Greece,Number of plasticbags per capita
+25,2019,248.2,pcs,country,Greece,Number of plasticbags per capita
+26,2018,383.8,pcs,country,Spain,Number of plasticbags per capita
+27,2019,327.70000000000005,pcs,country,Spain,Number of plasticbags per capita
+28,2020,410.8,pcs,country,Spain,Number of plasticbags per capita
+29,2021,331.5,pcs,country,Spain,Number of plasticbags per capita
+30,2018,94.4,pcs,country,European Union (27),Number of plasticbags per capita
+31,2019,92.7,pcs,country,European Union (27),Number of plasticbags per capita
+32,2020,87.3,pcs,country,European Union (27),Number of plasticbags per capita
+33,2021,76.6,pcs,country,European Union (27),Number of plasticbags per capita
+34,2018,313.7,pcs,country,Finland,Number of plasticbags per capita
+35,2019,294.7,pcs,country,Finland,Number of plasticbags per capita
+36,2020,252.2,pcs,country,Finland,Number of plasticbags per capita
+37,2021,255.6,pcs,country,Finland,Number of plasticbags per capita
+38,2018,104.2,pcs,country,France,Number of plasticbags per capita
+39,2019,103.9,pcs,country,France,Number of plasticbags per capita
+40,2020,140.4,pcs,country,France,Number of plasticbags per capita
+41,2018,52.8,pcs,country,Croatia,Number of plasticbags per capita
+42,2019,94.6,pcs,country,Croatia,Number of plasticbags per capita
+43,2020,182.5,pcs,country,Croatia,Number of plasticbags per capita
+44,2021,221.5,pcs,country,Croatia,Number of plasticbags per capita
+45,2018,225.39999999999998,pcs,country,Hungary,Number of plasticbags per capita
+46,2019,177.1,pcs,country,Hungary,Number of plasticbags per capita
+47,2020,185.39999999999998,pcs,country,Hungary,Number of plasticbags per capita
+48,2021,284.9,pcs,country,Hungary,Number of plasticbags per capita
+49,2018,106.4,pcs,country,Ireland,Number of plasticbags per capita
+50,2019,103.0,pcs,country,Ireland,Number of plasticbags per capita
+51,2020,98.4,pcs,country,Ireland,Number of plasticbags per capita
+52,2021,97.2,pcs,country,Ireland,Number of plasticbags per capita
+53,2021,44.5,pcs,country,Iceland,Number of plasticbags per capita
+54,2018,92.2,pcs,country,Italy,Number of plasticbags per capita
+55,2019,111.2,pcs,country,Italy,Number of plasticbags per capita
+56,2020,111.9,pcs,country,Italy,Number of plasticbags per capita
+57,2021,127.5,pcs,country,Italy,Number of plasticbags per capita
+58,2018,645.0,pcs,country,Lithuania,Number of plasticbags per capita
+59,2019,663.0,pcs,country,Lithuania,Number of plasticbags per capita
+60,2020,587.2,pcs,country,Lithuania,Number of plasticbags per capita
+61,2021,541.4,pcs,country,Lithuania,Number of plasticbags per capita
+62,2018,221.2,pcs,country,Luxembourg,Number of plasticbags per capita
+63,2019,125.5,pcs,country,Luxembourg,Number of plasticbags per capita
+64,2020,52.0,pcs,country,Luxembourg,Number of plasticbags per capita
+65,2021,48.2,pcs,country,Luxembourg,Number of plasticbags per capita
+66,2018,654.2,pcs,country,Latvia,Number of plasticbags per capita
+67,2019,570.3,pcs,country,Latvia,Number of plasticbags per capita
+68,2020,459.6,pcs,country,Latvia,Number of plasticbags per capita
+69,2021,418.0,pcs,country,Latvia,Number of plasticbags per capita
+70,2018,146.0,pcs,country,Norway,Number of plasticbags per capita
+71,2019,139.0,pcs,country,Norway,Number of plasticbags per capita
+72,2020,201.2,pcs,country,Norway,Number of plasticbags per capita
+73,2021,238.2,pcs,country,Norway,Number of plasticbags per capita
+74,2018,23.4,pcs,country,Poland,Number of plasticbags per capita
+75,2019,40.0,pcs,country,Poland,Number of plasticbags per capita
+76,2020,52.3,pcs,country,Poland,Number of plasticbags per capita
+77,2021,51.400000000000006,pcs,country,Poland,Number of plasticbags per capita
+78,2018,7.7,pcs,country,Portugal,Number of plasticbags per capita
+79,2019,7.7,pcs,country,Portugal,Number of plasticbags per capita
+80,2020,17.1,pcs,country,Portugal,Number of plasticbags per capita
+81,2021,21.9,pcs,country,Portugal,Number of plasticbags per capita
+82,2018,87.3,pcs,country,Romania,Number of plasticbags per capita
+83,2019,97.7,pcs,country,Romania,Number of plasticbags per capita
+84,2018,312.9,pcs,country,Sweden,Number of plasticbags per capita
+85,2019,301.8,pcs,country,Sweden,Number of plasticbags per capita
+86,2020,208.2,pcs,country,Sweden,Number of plasticbags per capita
+87,2021,32.5,pcs,country,Sweden,Number of plasticbags per capita
+88,2018,163.7,pcs,country,Slovenia,Number of plasticbags per capita
+89,2019,149.5,pcs,country,Slovenia,Number of plasticbags per capita
+90,2020,148.39999999999998,pcs,country,Slovenia,Number of plasticbags per capita
+91,2021,164.4,pcs,country,Slovenia,Number of plasticbags per capita
+92,2018,265.5,pcs,country,Slovakia,Number of plasticbags per capita
+93,2019,215.5,pcs,country,Slovakia,Number of plasticbags per capita
+94,2020,189.60000000000002,pcs,country,Slovakia,Number of plasticbags per capita
+95,2021,163.5,pcs,country,Slovakia,Number of plasticbags per capita
